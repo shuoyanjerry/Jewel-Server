@@ -170,8 +170,8 @@ class Jewel:
 
 
 if __name__ == "__main__":
-    port = int(sys.argv[1])
-    file_path = sys.argv[2]
+    port = 8080
+    file_path = "./mywebsite/www"
 
     FR = FileReader()
 
