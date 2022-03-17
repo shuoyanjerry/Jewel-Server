@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="634d95e2-104a-493e-9942-638c61343dcd" name="Default Changelist" comment="" />
+    <list default="true" id="519407f3-911b-481b-86cd-7307666e7804" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mywebsite/www/a.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="25nhkCbzsFC8mQ1HuUYGuJVYa1x" />
+  <component name="ProjectId" id="26WfcOh2xxlveZQEeVEYxJ5zqJC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,127 +31,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/mywebsite/www" />
+      <recent name="$PROJECT_DIR$" />
     </key>
-  </component>
-  <component name="RunManager" selected="Python.test">
-    <configuration name="httpserver" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Project 2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/httpserver.py" />
-      <option name="PARAMETERS" value="8080 ./mywebsite/www" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="jewel" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="Project 2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jewel.py" />
-      <option name="PARAMETERS" value="8080 ./mywebsite/www" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Project 2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="www" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Project 2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jewel.py 80 ./mywebsite/www" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="Python.jewel" />
-      <item itemvalue="Python.www" />
-      <item itemvalue="Python.httpserver" />
-      <item itemvalue="Python.test" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.httpserver" />
-        <item itemvalue="Python.www" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
@@ -159,23 +43,14 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="634d95e2-104a-493e-9942-638c61343dcd" name="Default Changelist" comment="" />
-      <created>1646168898404</created>
+      <changelist id="519407f3-911b-481b-86cd-7307666e7804" name="Default Changelist" comment="" />
+      <created>1647544341413</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1646168898404</updated>
-      <workItem from="1646168903627" duration="2670000" />
-      <workItem from="1646188591628" duration="5298000" />
-      <workItem from="1646195245366" duration="6000" />
-      <workItem from="1646250010657" duration="7249000" />
-      <workItem from="1646270472014" duration="25980000" />
-      <workItem from="1646366757114" duration="2788000" />
-      <workItem from="1646370045321" duration="2620000" />
-      <workItem from="1646414217140" duration="7820000" />
-      <workItem from="1646610058485" duration="12587000" />
-      <workItem from="1647471764847" duration="73000" />
-      <workItem from="1647490064619" duration="3091000" />
-      <workItem from="1647542750649" duration="1135000" />
+      <updated>1647544341413</updated>
+      <workItem from="1647544342750" duration="658000" />
+      <workItem from="1647545532617" duration="2000" />
+      <workItem from="1647545556865" duration="6000" />
     </task>
     <servers />
   </component>
@@ -183,57 +58,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1647491514169">
+    <state x="184" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1647545485081">
       <screen x="0" y="25" width="1440" height="815" />
     </state>
-    <state x="184" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.815@0.25.1440.815" timestamp="1647491514169" />
-    <state x="458" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1647543519515">
-      <screen x="0" y="25" width="1440" height="815" />
-    </state>
-    <state x="458" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1440.815@0.25.1440.815" timestamp="1647543519515" />
-    <state width="1398" height="181" key="GridCell.Tab.0.bottom" timestamp="1647493255676">
-      <screen x="0" y="25" width="1440" height="815" />
-    </state>
-    <state width="1398" height="181" key="GridCell.Tab.0.bottom/0.25.1440.814@0.25.1440.814" timestamp="1647490841986" />
-    <state width="1398" height="181" key="GridCell.Tab.0.bottom/0.25.1440.815@0.25.1440.815" timestamp="1647493255676" />
-    <state width="1398" height="181" key="GridCell.Tab.0.bottom/0.25.1440.817@0.25.1440.817" timestamp="1647490790618" />
-    <state width="1398" height="181" key="GridCell.Tab.0.center" timestamp="1647493255675">
-      <screen x="0" y="25" width="1440" height="815" />
-    </state>
-    <state width="1398" height="181" key="GridCell.Tab.0.center/0.25.1440.814@0.25.1440.814" timestamp="1647490841985" />
-    <state width="1398" height="181" key="GridCell.Tab.0.center/0.25.1440.815@0.25.1440.815" timestamp="1647493255675" />
-    <state width="1398" height="181" key="GridCell.Tab.0.center/0.25.1440.817@0.25.1440.817" timestamp="1647490790617" />
-    <state width="1398" height="181" key="GridCell.Tab.0.left" timestamp="1647493255671">
-      <screen x="0" y="25" width="1440" height="815" />
-    </state>
-    <state width="1398" height="181" key="GridCell.Tab.0.left/0.25.1440.814@0.25.1440.814" timestamp="1647490841985" />
-    <state width="1398" height="181" key="GridCell.Tab.0.left/0.25.1440.815@0.25.1440.815" timestamp="1647493255671" />
-    <state width="1398" height="181" key="GridCell.Tab.0.left/0.25.1440.817@0.25.1440.817" timestamp="1647490790616" />
-    <state width="1398" height="181" key="GridCell.Tab.0.right" timestamp="1647493255676">
-      <screen x="0" y="25" width="1440" height="815" />
-    </state>
-    <state width="1398" height="181" key="GridCell.Tab.0.right/0.25.1440.814@0.25.1440.814" timestamp="1647490841986" />
-    <state width="1398" height="181" key="GridCell.Tab.0.right/0.25.1440.815@0.25.1440.815" timestamp="1647493255676" />
-    <state width="1398" height="181" key="GridCell.Tab.0.right/0.25.1440.817@0.25.1440.817" timestamp="1647490790618" />
-    <state x="229" y="68" key="SettingsEditor" timestamp="1647492148865">
-      <screen x="0" y="25" width="1440" height="815" />
-    </state>
-    <state x="229" y="68" key="SettingsEditor/0.25.1440.815@0.25.1440.815" timestamp="1647492148865" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <default-breakpoints>
-        <breakpoint type="python-exception">
-          <properties notifyOnTerminate="true" exception="BaseException">
-            <option name="notifyOnTerminate" value="true" />
-          </properties>
-        </breakpoint>
-      </default-breakpoints>
-    </breakpoint-manager>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Project_2$httpserver.coverage" NAME="httpserver Coverage Results" MODIFIED="1646366940085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Project_2$test.coverage" NAME="test Coverage Results" MODIFIED="1647493148888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Project_2$jewel.coverage" NAME="jewel Coverage Results" MODIFIED="1647471769982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <state x="184" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.815@0.25.1440.815" timestamp="1647545485081" />
   </component>
 </project>
