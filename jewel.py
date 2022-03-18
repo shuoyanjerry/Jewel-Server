@@ -112,7 +112,7 @@ class Jewel:
 
                     client.sendall(status.encode())
 
-                    length = "Content-Length: {:}\r\n\r\n".format(self.file_reader.head(path))
+                    length = "Server: sy4yeh\r\nContent-Length: {:}\r\n\r\n".format(self.file_reader.head(path))
                     client.sendall(length.encode())
                     try:
                         client.sendall(response)
@@ -126,7 +126,7 @@ class Jewel:
                     status = '{:} 404 NOT FOUND\r\n'.format(request_fields[2])
                     client.sendall(status.encode())
                     message = "Error 404: File not found"
-                    length = "Content-Length: {:}\r\n\r\n".format(len(message))
+                    length = "Server: sy4yeh\r\nContent-Length: {:}\r\n\r\n".format(len(message))
                     client.sendall(length.encode())
                     client.sendall(message.encode())
 
@@ -135,7 +135,7 @@ class Jewel:
                 response = self.file_reader.head(path)
                 if response:
                     message = '{:} 200 OK\r\n'.format(request_fields[2])
-                    length = "Content-Length: {:}\r\n\r\n".format(response)
+                    length = "Server: sy4yeh\r\nContent-Length: {:}\r\n\r\n".format(response)
                     response = message.encode() + length.encode()
 
                 else:
@@ -144,7 +144,7 @@ class Jewel:
                                                                                    request_fields[0], 404))
                     status = '{:} 404 NOT FOUND\r\n'.format(request_fields[2])
                     client.sendall(status.encode())
-                    response = b"Content-Length: 0\r\n\r\n"
+                    response = b"Server: sy4yeh\r\nContent-Length: 0\r\n\r\n"
                 client.sendall(response)
 
             else:
@@ -153,7 +153,7 @@ class Jewel:
                 status = '{:} 501 Unsupported method (\'{:}\')\r\n'.format(request_fields[2], request_fields[0])
                 client.sendall(status.encode())
                 message = "Error 501: Unsupported method \'{:}\'".format(request_fields[0])
-                length = "Content-Length: {:}\r\n\r\n".format(len(message))
+                length = "Server: sy4yeh\r\nContent-Length: {:}\r\n\r\n".format(len(message))
                 client.sendall(length.encode())
                 client.sendall(message.encode())
         else:
@@ -164,7 +164,7 @@ class Jewel:
         status = '{:} 400 Bad Request Error\r\n'
         client.sendall(status.encode())
         message = '{:} 400 Bad Request Error\r\n'
-        length = "Content-Length: {:}\r\n\r\n".format(len(message))
+        length = "Server: sy4yeh\r\nContent-Length: {:}\r\n\r\n".format(len(message))
         client.sendall(length.encode())
         client.sendall(message.encode())
 
