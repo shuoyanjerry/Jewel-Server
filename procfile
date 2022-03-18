@@ -1,0 +1,2 @@
+web: gunicorn jewel:app --log-file -
+heroku config:add PORT=33507
