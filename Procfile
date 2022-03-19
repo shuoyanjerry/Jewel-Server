@@ -1,2 +1,1 @@
-web: python 3 jewel.py
-web: gunicorn jewel:app --log-file -
+web: python3 jewel.py --log-file -
