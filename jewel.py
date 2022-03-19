@@ -3,6 +3,7 @@
 import socket
 import sys
 import select
+import os
 from file_reader import FileReader
 
 try:
