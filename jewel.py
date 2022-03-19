@@ -171,7 +171,7 @@ class Jewel:
 
 
 if __name__ == "__main__":
-    port = int(os.environ.get('PORT', 33507))
+    port = int(os.environ.get('PORT', 46171))
     file_path = "./mywebsite/www"
     FR = FileReader()
 
