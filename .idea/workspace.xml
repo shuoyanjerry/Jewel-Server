@@ -2,15 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="519407f3-911b-481b-86cd-7307666e7804" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/mywebsite/www/aboutme.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mywebsite/www/readme.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jewel.py" beforeDir="false" afterPath="$PROJECT_DIR$/jewel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,6 +41,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -88,7 +95,7 @@
       <workItem from="1647544342750" duration="658000" />
       <workItem from="1647545532617" duration="2000" />
       <workItem from="1647545556865" duration="6000" />
-      <workItem from="1647628311038" duration="7232000" />
+      <workItem from="1647628311038" duration="8590000" />
     </task>
     <servers />
   </component>
@@ -103,10 +110,10 @@
       <screen x="0" y="25" width="1440" height="815" />
     </state>
     <state x="184" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.815@0.25.1440.815" timestamp="1647546867944" />
-    <state x="446" y="236" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1647636109194">
+    <state x="446" y="236" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1647718994204">
       <screen x="0" y="25" width="1440" height="814" />
     </state>
-    <state x="446" y="236" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.814@0.25.1440.814" timestamp="1647636109194" />
+    <state x="446" y="236" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.814@0.25.1440.814" timestamp="1647718994204" />
     <state x="439" y="103" key="#jewel" timestamp="1647546893294">
       <screen x="0" y="25" width="1440" height="815" />
     </state>
